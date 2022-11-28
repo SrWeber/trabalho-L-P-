@@ -1,0 +1,24 @@
+primeiro definimos as lista a, b, c
+
+apos isso foi pedido para para o usuario escolher 1 item das 3 colunas e falar somente a coluna
+
+apos isso usamos o for para organizar as cartas da forma correta  
+ 
+a coluna escolhida deve ficar no meio das outras duas e adicionadas em uma quarta lista (li)
+
+defini as 3 listas como vazias
+
+entao defini o (Y) como variavel para ultilizar no for
+
+
+no for ultilizei o append para fazer uma varedura e separar a lista(li) nas listas a, b, c
+
+e pedi para printar as listas separadas
+
+apos isso separe novamente as 3 colunas carta por carta
+
+
+peca para o usuaria novamente 
+
+
+repita o processo 3 vezes e a carta escolhida é a 11 carta
